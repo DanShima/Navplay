@@ -6,4 +6,9 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+    <string name="nav_options">Options</string>
+    <string name="nav_help">Hjälp</string>
+    <string name="nav_setting">Inställningar</string>
+    <string name="nav_logout">Logga ut</string>
+    <string name="nav_share_account">Skapa en ny delning</string>
 </resources>
